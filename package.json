@@ -1,0 +1,25 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "test for labpage",
+  "main": "app.js",
+  "scripts": {
+    "test": "gogo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dombegi/labpage.git"
+  },
+  "keywords": [
+    "ohnolab"
+  ],
+  "author": "dombegi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dombegi/labpage/issues"
+  },
+  "homepage": "https://github.com/dombegi/labpage#readme",
+  "dependencies": {
+    "package": "^1.0.1"
+  }
+}
